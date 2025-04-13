@@ -10,7 +10,8 @@ Student at Master's degree<br>Free to cooperate<br>Open to learn<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel2557&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🥋 Codewars
 
-![Codewars](https://www.codewars.com/users/pawel2557/badges/large)
+[![Codewars](https://www.codewars.com/users/pawel2557/badges/large)](https://www.codewars.com/users/pawel2557)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
