@@ -1,5 +1,9 @@
 # 💫 About Me:
 Student at Master's degree<br>Free to cooperate<br>Open to learn<br>
+## 🎧 Currently listening
+
+[![Spotify](https://spotify-theta-inky.vercel.app/api/spotify)](https://open.spotify.com)
+
 
 
 # 💻 Tech Stack:
