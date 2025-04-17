@@ -1,9 +1,9 @@
 # 💫 About Me:
 Student at Master's degree<br>Free to cooperate<br>Open to learn<br>
 ## 🎧 Currently listening
-<div align="center">
+
 [![Spotify](https://spotify-theta-inky.vercel.app/api/spotify)](https://open.spotify.com)
-</div>
+
 # 🥋 Codewars
 
 [![Codewars](https://www.codewars.com/users/pawel2557/badges/large)](https://www.codewars.com/users/pawel2557)
